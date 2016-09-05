@@ -54,3 +54,27 @@ artifacts {
     archives androidSourcesJar
     archives androidJavadocsJar
 }
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'ValueSelectorLib'
+
+    publishedGroupId = 'com.narvancomputer'
+    libraryName = 'ValueSelectorLib'
+    artifact = 'ValueSelectorLib'
+
+    libraryDescription = 'Numeric TextView with add & minus btn'
+
+    siteUrl = 'https://github.com/mehdi-salehi/ValueSelectorLib'
+    gitUrl = 'https://github.com/mehdi-salehi/ValueSelectorLib.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'mehdi-salehi'
+    developerName = 'mehdi salehi'
+    developerEmail = 'meh2fari@gmail.com'
+
+    licenseName = 'AGPL-V3'
+    licenseUrl = 'http://www.opensource.org/licenses/agpl-v3.html'
+    allLicenses = ["AGPL-V3"]
+}

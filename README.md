@@ -1,5 +1,5 @@
 # ValueSelectorLib
-<!--[![Release](https://jitpack.io/v/User/Repo.svg)](https://jitpack.io/#User/Repo)-->
+[![](https://jitpack.io/v/mehdi-salehi/ValueSelectorLib.svg)](https://jitpack.io/#mehdi-salehi/ValueSelectorLib)
 
 Numeric TextView with add & minus btn for Android.
 
